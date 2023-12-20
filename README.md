@@ -63,7 +63,6 @@ Enumerable is a classic teminal application that showscases how to use modules i
     <li><a href="https://www.postgresql.org/">Ruby</a></li>
   </ul>
 </details>
-<details>
 
 <!-- Features -->
 
